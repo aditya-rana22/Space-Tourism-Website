@@ -1,5 +1,5 @@
 // fetchData();
-import { act, useState } from "react";
+import { useState } from "react";
 import "./App.scss";
 
 const data = require("./data.json");
